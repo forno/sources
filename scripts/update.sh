@@ -10,7 +10,7 @@ filter_out_ignore(){
 
 nowdir=`pwd`
 
-cd ..
+cd "`dirname $0`/.."
 
 topdir=`pwd`
 
