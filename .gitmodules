@@ -1,9 +1,6 @@
 [submodule "vim"]
 	path = vim
 	url = https://github.com/vim/vim.git
-[submodule "yp-spur"]
-	path = yp-spur
-	url = https://github.com/openspur/yp-spur.git
 [submodule "cmake"]
 	path = cmake
 	url = https://gitlab.kitware.com/cmake/cmake.git
